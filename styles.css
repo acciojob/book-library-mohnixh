@@ -20,6 +20,13 @@ body {
     border-radius: 8px;
 }
 
+.book-content { /* Added styles for the new div */
+    background-color: #2ecc71; /* Matches the price-block background */
+    color: white; /* Matches the price-block text color */
+    border-radius: 5px; /* Matches the price-block border radius */
+    padding: 10px; /* Optional: Add padding for better spacing */
+}
+
 .book img {
     width: 100px;
     height: auto;
